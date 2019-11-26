@@ -1,0 +1,2 @@
+# repoconstruccion
+como usar git
